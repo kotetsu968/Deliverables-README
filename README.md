@@ -68,7 +68,7 @@
 ## コード作品
 ### Python
 #### 概要  
-[ソースコード](tempCodeRunnnerFile.py)
+[ソースコードはこちら](tempCodeRunnnerFile.py)  
 これは近似計算を行うためのプログラムです。  
 
 #### 背景  
