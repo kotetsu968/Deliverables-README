@@ -32,7 +32,7 @@
   <img src="ポスター１.png" width="300px">
   <img src="ポスター２.png" width="300px">
 </p>
-![ブース用ポスター](ポスター１.png,ポスター２.png)
+<img src="参加ボタン.png" alt="ボタンデザイン" width="300px">
 ![ボタンデザイン](参加ボタン.png)
 
 
