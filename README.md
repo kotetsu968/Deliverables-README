@@ -41,9 +41,12 @@
 ## blender作品
 ### クリスタルの3Dモデル
 <img src="crystal_blender.png" width="300px">
+
 ### カメラの3Dモデル
 <img src="camera_blender.png" width="300px">
+
 ### 簡易なアニメーション
+[動画を見る](drink_animation_blender.mp4)
 <img src="drink_animation_blender.mp4" width="300px">
 
 
