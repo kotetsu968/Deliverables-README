@@ -29,8 +29,8 @@
 
 <img src="NABASE_logo.png" alt="アプリのロゴ" width="300px">
 <p>
-  <img src="assets/ポスター１.png" width="200px">
-  <img src="assets/ポスター２.png" width="200px">
+  <img src="ポスター１.png" width="200px">
+  <img src="ポスター２.png" width="200px">
 </p>
 ![ブース用ポスター](ポスター１.png,ポスター２.png)
 ![ボタンデザイン](参加ボタン.png)
