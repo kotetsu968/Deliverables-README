@@ -1,2 +1,2 @@
-# blender-portfolio
-blender works
+# blender-figma-portfolio
+blender and figma works
