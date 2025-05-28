@@ -1,4 +1,4 @@
-# figma-blender-portfolio
+# 成果物
 このリポジトリは『PIXIV SUMMER BOOT CAMP 2025』の応募用の成果物をまとめたものです。
 ## 内容
 - **Figma作品**
