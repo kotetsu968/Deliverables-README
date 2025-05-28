@@ -28,11 +28,13 @@
   自分だけで見ていると視野が狭くなってしまうと思ったので、様々な人に確認しながら制作を進めました。  
 
 <img src="NABASE_logo.png" alt="アプリのロゴ" width="300px">
+アプリのロゴ
 <p>
   <img src="ポスター１.png" width="300px">
   <img src="ポスター２.png" width="300px">
 </p>
+ブース用ポスター
 <img src="参加ボタン.png" alt="ボタンデザイン" width="300px">
-![ボタンデザイン](参加ボタン.png)
+ボタンデザイン
 
 
