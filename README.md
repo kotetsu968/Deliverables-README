@@ -56,6 +56,9 @@
 ### 簡易なアニメーション
 [動画を見る](drink_animation_blender.mp4)
 <img src="drink_animation_blender.mp4" width="300px">
+流体のアニメーションに挑戦しました。  
+波紋の表現やグラデーションにこだわりました。  
+少し画面が暗く寂しくなってしまっているのが今後の課題です。
 
 
 
